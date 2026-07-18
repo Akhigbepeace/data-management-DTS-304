@@ -1,0 +1,31 @@
+Timestamp,Customer Name,Purchase Date  ,Product ID,Product Category,Amount
+6/30/2026 17:56:01,John Okafor,6/1/2026,PRD1001,Electronics,125000
+6/30/2026 17:56:40,Mary Eze,6/1/2026,PRD1002,Food,8500
+6/30/2026 17:57:10,David Bello,6/1/2026,PRD1003,Clothing and Textile,22000
+6/30/2026 18:01:02,Grace Ahmed,6/2/2026,PRD1004,Health and Beauty,15500
+6/30/2026 18:01:32,Samuel Obi,6/3/2026,PRD1005,Electronics,89000
+7/8/2026 7:18:21,Esther Musa,7/8/2026,PRD1006,Food,12000
+7/8/2026 7:19:00,Michael Ade,7/8/2026,PRD1007,Clothing and Textile,18000
+7/8/2026 7:19:53,Ruth James,7/8/2026,PRD1008,Health and Beauty,27500
+7/8/2026 7:22:02,Daniel Umeh,7/8/2026,PRD1009,Health and Beauty,340000
+7/8/2026 7:22:38,Deborah Nnaji,7/8/2026,PRD1010,Food,6800
+7/8/2026 7:23:25,Emmanuel Yusuf,7/8/2026,PRD1011,Clothing and Textile,31000
+7/8/2026 7:24:11,Faith Ojo,7/8/2026,PRD1012,Health and Beauty,21000
+7/8/2026 7:24:58,Peter Chukwu,7/8/2026,PRD1013,Electronics,56000
+7/8/2026 7:25:32,Sarah Ibrahim,7/8/2026,PRD1014,Food,14700
+7/8/2026 7:26:12,Joseph Edet,7/8/2026,PRD1015,Clothing and Textile,42000
+7/8/2026 7:26:44,Patricia Onoh,7/8/2026,PRD1016,Health and Beauty,9800
+7/8/2026 7:27:14,Victor Akin,7/8/2026,PRD1017,Electronics,76000
+7/8/2026 7:27:45,Linda Okeke,7/8/2026,PRD1018,Food,5600
+7/8/2026 7:28:21,Isaac Danladi,7/8/2026,PRD1019,Clothing and Textile,26500
+7/8/2026 7:28:55,Helen Nwosu,7/8/2026,PRD1020,Food,33000
+7/8/2026 7:29:32,Kelvin Abiola,7/8/2026,PRD1021,Electronics,149000
+7/8/2026 7:29:59,Joy Bassey,7/8/2026,PRD1022,Food,11300
+7/8/2026 7:30:38,Collins Emeh,7/8/2026,PRD1023,Clothing and Textile,19500
+7/8/2026 7:31:08,Vivian Ali,7/9/2026,PRD1024,Health and Beauty,12400
+7/8/2026 7:31:38,Henry Ogbonna,7/8/2026,PRD1025,Electronics,285000
+7/8/2026 7:32:10,Mercy Lawal,7/9/2026,PRD1026,Food,9100
+7/8/2026 7:32:40,Chinedu Ibe,7/9/2026,PRD1027,Clothing and Textile,47000
+7/8/2026 7:33:10,Blessing Garba,7/9/2026,PRD1028,Health and Beauty,16400
+7/8/2026 7:33:35,Andrew Ekanem,7/9/2026,PRD1029,Electronics,99000
+7/8/2026 7:34:01,Jennifer Okon,7/9/2026,PRD1030,Food,7300
